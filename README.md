@@ -67,7 +67,7 @@ Whether you're a beginner or an experienced developer, this tutorial will give y
 
 ### Testing HTTP requests with Docker:
 
-![Screenshot from 2023-03-20 13-07-40](https://user-images.githubusercontent.com/49017322/226325266-7ec8efc5-ef6c-4a21-8bce-f844e41dea2a.png)
+![Screenshot from 2023-03-20 13-21-08](https://user-images.githubusercontent.com/49017322/226328734-66d3f678-0ec6-4431-ae94-69352797dc26.png)
 
 ### [Encoded the auto generated jwt-token which received during the testing phase:](https://jwt.io/)
 
