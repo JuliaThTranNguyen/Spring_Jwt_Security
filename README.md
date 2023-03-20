@@ -40,17 +40,17 @@ Whether you're a beginner or an experienced developer, this tutorial will give y
 ## Spring boot dependencies explanation:
 ### Lombok
 
-    * Lombok is a Java library that provides a set of annotations to help reduce boilerplate code in Java classes. It can be used in a Spring Boot application to reduce the amount of code needed for getter and setter methods, constructors, and other common methods.
+- Lombok is a Java library that provides a set of annotations to help reduce boilerplate code in Java classes. It can be used in a Spring Boot application to reduce the amount of code needed for getter and setter methods, constructors, and other common methods.
 
 ### Spring Security
 
-    * Spring Security is a framework used for authentication, authorization, and other security features in Spring applications. It provides a set of security filters and components that can be used to secure web APIs, web pages, and other resources in a Spring application. Spring Security can be used with a variety of authentication and authorization mechanisms, including JWT, OAuth, and basic authentication.
+- Spring Security is a framework used for authentication, authorization, and other security features in Spring applications. It provides a set of security filters and components that can be used to secure web APIs, web pages, and other resources in a Spring application. Spring Security can be used with a variety of authentication and authorization mechanisms, including JWT, OAuth, and basic authentication.
 
 ## What is JWT (JSON Web Token)?
 
-    * WT (JSON Web Token) is a technology used for authentication and authorization in web applications. In a Spring Web application, JWT can be used to secure the endpoints exposed by a web API.
+- WT (JSON Web Token) is a technology used for authentication and authorization in web applications. In a Spring Web application, JWT can be used to secure the endpoints exposed by a web API.
     
-    * When a user logs in to the application, a JWT token is generated and sent to the client. The client then includes this token in every subsequent request to the server. The server verifies the token to authenticate and authorize the request.
+- When a user logs in to the application, a JWT token is generated and sent to the client. The client then includes this token in every subsequent request to the server. The server verifies the token to authenticate and authorize the request.
 
 <br/><br/>
 
